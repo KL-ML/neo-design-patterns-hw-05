@@ -1,0 +1,21 @@
+Metric,Value
+Total Files,566
+Total Directories,98
+Total Size (bytes),28323487
+
+Extension,Count
+(no extension),42
+.sample,14
+.idx,1
+.pack,1
+.rev,1
+.ts,268
+.md,32
+.json,49
+.js,95
+.mjs,8
+.map,42
+.cts,4
+.mts,6
+.txt,2
+.xml,1
